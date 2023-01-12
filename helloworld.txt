@@ -1,1 +1,2 @@
 Hello this is the piece of code to create merge conflict
+yes this file how to merge
