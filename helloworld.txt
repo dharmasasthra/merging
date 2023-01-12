@@ -1,3 +1,6 @@
 Hello this is the piece of code to create merge conflict
 this is second commit from dev2
 branching startegy
+yes this file how to merge
+fine code is completed
+
