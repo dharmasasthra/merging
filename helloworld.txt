@@ -3,4 +3,4 @@ this is second commit from dev2
 branching startegy
 yes this file how to merge
 fine code is completed
-
+and my doubt is going clear now
