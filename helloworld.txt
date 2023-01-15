@@ -7,3 +7,5 @@ and my doubt is going clear now
 this one is to try rebase
 this for the better understanding
 one more commit
+this lined added from dev2
+one more line added from dev2
