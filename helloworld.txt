@@ -9,3 +9,4 @@ this for the better understanding
 one more commit
 this lined added from dev2
 one more line added from dev2
+this line added for squash
