@@ -4,3 +4,6 @@ branching startegy
 yes this file how to merge
 fine code is completed
 and my doubt is going clear now
+this one is to try rebase
+this for the better understanding
+one more commit
